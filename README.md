@@ -10,11 +10,11 @@ Este es un proyecto en el que utilizo el framework ReactJS para realizar los pun
 
 Debes tener NodeJs y React para poder compilar este proyecto 
 
-## Instala las dependencias:
+## Instalar Dependencias:
 
 ### 'npm install'
 
-## Inicia la aplicación:
+## Inicia Aplicación:
 
 ### 'npm start'
 
