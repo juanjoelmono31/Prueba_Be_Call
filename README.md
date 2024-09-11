@@ -14,7 +14,7 @@ Debes tener NodeJs y React para poder compilar este proyecto
 
 ### 'npm install'
 
-## Inicia Aplicación:
+## Iniciar Aplicación:
 
 ### 'npm start'
 
